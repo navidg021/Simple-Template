@@ -1,0 +1,396 @@
+﻿body
+{
+    background-color:white;
+}
+
+.headerup {
+    width: 1320px;
+    height: 120px;
+    border:10px solid transparent;
+    background-color: #f3f3f3;
+    margin-right: -4px;
+    margin-top:-8px;
+}
+
+.parsianlogo
+{
+    margin-right:70px;
+    float:right;
+}
+
+.logosdiv {
+    width: 300px;
+    height: 140px;
+    background-color: transparent;
+    float: left;
+}
+
+.logo1 {
+    float: right;
+    margin-top: 2px;
+   
+}
+
+.logo2 {
+    margin-top: 45px;
+    margin-left: 40px;
+    float: left;
+}
+
+.logo3 {
+    margin-top: 45px;
+    float: left;
+    margin-left: 4px;
+}
+
+.firstmenu li {
+    list-style: none;
+    font-size: 14px;
+    font-family: 'IRANSansWeb';
+    float: right;
+    margin-right: 30px;
+    margin-top: 70px;
+    color: black;
+}
+    .firstmenu li a {
+        text-decoration: none;
+        color: black;
+    }
+
+
+.firstimg {
+    width: 1340px;
+    height: 575px;
+    margin-right: -4px;
+    background-image: url(../img/image1.png);
+}
+
+.h1div {
+    width: 1340px;
+    height: 460px;
+    background-color: transparent;
+    margin-right: -4px;
+    font-size: 37px;
+    font-family: 'IRANSansWeb';
+}
+
+.i {
+    width: 1340px;
+    height: 300px;
+    background-color: transparent;
+}
+    .i ul {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        list-style: none;
+    }
+.i li
+{
+    
+    display:inline-block;
+    margin:-1px;
+}
+    .i a {
+       
+    }
+
+.ii
+{
+    
+    
+}
+
+
+.h2 {
+    width: 1340px;
+    height: 584px;
+    background-image: url(../img/h2.png);
+    margin-right: -4px;
+}
+
+.samanebutton {
+    width: 160px;
+    padding: 10px;
+    color: white;
+    background-color: transparent;
+    display: block;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-top: 430px;
+    margin-left: 585px;
+    text-decoration: none;
+    font-family: 'IRANSansWeb';
+    float: left;
+}
+
+    .samanebutton:hover {
+        background-color: #b17d57;
+    }
+
+.h3
+{
+    width:1130px;
+    height:300px;
+    margin:auto;
+    margin-top:70px;
+}
+
+.rightheadimg img {
+    float: right;
+    height: 300px;
+}
+
+
+.h33 {
+    width: 746px;
+    height: 300px;
+    background-color: #f4f3f3;
+    float: right;
+}
+
+    .h33p1 {
+        font-size: 13px;
+        font-family: 'IRANSansWeb';
+        color: #b5bcbc;
+        float: right;
+        margin-right: 20px;
+        margin-top: 40px;
+        display:block;
+    }
+.h33p2 {
+    margin-right: -260px;
+    margin-top: 60px;
+    float: right;
+    font-size: 13px;
+    font-family: 'IRANSansWeb';
+    color: #b5bcbc;
+}
+
+.h33link {
+    color: black;
+    font-family: 'IRANSansWeb';
+    float: right;
+    margin-right: -53px;
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+
+.h33img {
+    
+    margin-right: 30px;
+    margin-top: 40px;
+    float: right;
+}
+
+
+
+.h333 {
+    width: 327px;
+    height: 300px;
+    background-color: #ebe9e9;
+    float:left;
+}
+
+    .h333 ul {
+        margin-right: -24px;
+        margin-top: 30px;
+        list-style:none;
+    }
+
+    .h333 li {
+        margin:auto;
+        padding: 0px;
+        margin-top:5px;
+    }
+
+.h333 a
+{
+    padding:7px;
+    text-decoration:none;
+    color:black;
+    font-family:'IRANSansWeb';
+    font-size:13px;
+}
+
+    .h333 li :hover {
+        background-color: #c9cace;
+    }
+
+.hrimg
+{
+    margin-right:-10px;
+}
+
+.feedimg
+{
+    float:left;
+    margin-top:-14px;
+    margin-left:10px;
+}
+
+.h4 {
+    width: 1340px;
+    height: 580px;
+    background-image: url(../img/image2.png);
+    margin-right: -4px;
+    margin-top:70px;
+}
+
+.searchtool {
+    margin-top: 205px;
+    margin-right: -730px;
+    padding: 20px 100px;
+    font-size: 18px;
+    text-align: right;
+    color: white;
+    font-family: 'IRANSansWeb';
+    background-color: #30343b;
+    opacity: 1;
+    border: 2px solid black;
+    background-image: url(../img/searchtool.png);
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    clear: both;
+}
+
+.h5 {
+    width: 1340px;
+    height: 320px;
+    background-color: transparent;
+    margin-right: -4px;
+    font-size: 37px;
+    font-family: 'IRANSansWeb';
+}
+
+.h55 {
+    width: 1340px;
+    height: 120px;
+    background-color: transparent;
+}
+
+    .h55 ul {
+        padding: 0;
+        margin: 0;
+        margin-right: -20px;
+        list-style: none;
+    }
+
+    .h55 li {
+        display: inline-block;
+        margin-right: 30px;
+        padding: 0px 14px;
+    }
+
+.footer {
+    width: 1340px;
+    height: 310px;
+    background-color: #333333;
+    margin-right: -2px;
+    font-family: 'IRANSansWeb';
+}
+
+.rightfoot
+{
+    width:200px;
+    height:310px;
+    background-color:transparent;
+    float:right;
+    margin-right:80px;
+}
+.rightfoot strong
+{
+    color:white;
+    font-size:17px;
+}
+
+.rightfoot ul {
+    padding: 0;
+    margin: 0;
+    margin-top:60px;
+    overflow:hidden;
+    list-style: none;
+    text-align:center;
+}
+
+    .rightfoot li {
+        color: #afafaf;
+        font-size:14px;
+        margin-top:7px;
+        text-align:right;
+    }
+
+.endless {
+    width: 1340px;
+    height: 383px;
+    
+    background-image:url(../img/back.png);
+    margin-right: -2px;
+    font-family: 'IRANSansWeb';
+}
+
+.endlogoparsian img
+{
+    margin-top:25px;
+}
+
+.adress {
+    width: 420px;
+    color: #ead0cf;
+    font-size: 15px;
+}
+
+.endimg
+{
+    float:right;
+}
+
+.about {
+    width: 670px;
+    color: #ead0cf;
+    
+}
+
+    .about ul {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        list-style: none;
+        
+    }
+
+    .about li {
+        float: right;
+        text-align: right;
+        margin-right: 90px;
+        font-size: 15px;
+        font-family: 'IRANSansWeb';
+    }
+
+.icons
+{
+    width:200px;
+    margin-top:20px;
+}
+
+.icons a
+{
+    margin-right:6px;
+    text-decoration:none;
+}
+
+.end {
+    width:330px;
+    font-size: 12px;
+    font-family: 'IRANSansWeb';
+    color: #ead0cf;
+    text-align:right;
+}
+
+.end img
+{
+    float:right;
+    
+}
